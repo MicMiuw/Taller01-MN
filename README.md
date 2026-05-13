@@ -1,2 +1,2 @@
 # Taller01-MN
-Taller número 1 de métodos numpericos
+Taller número 1 de métodos numéricos
